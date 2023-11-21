@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **ljh20011/ljh20011** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+## About ME
+
+Resume :  click [here]([https://github.com/ljh20011/Resume/blob/main/Resume/README.md])
+
+## Tools and Webpages
+
+- Tools : `Python` `C++`
+- GitHub : <https://github.com/ljh20011>
+- Blog : <https://onutoa111.tistory.com>
