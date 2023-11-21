@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 ## About ME
 
-Resume :  click [here](https://github.com/ljh20011/Resume/blob/main/Resume/README.md)
+Resume :  click [here](https://github.com/ljh20011/Resume/blob/main/README.md)
 
 ## Tools and Webpages
 
